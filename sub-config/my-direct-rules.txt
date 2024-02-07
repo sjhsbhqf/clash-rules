@@ -1,5 +1,5 @@
 
 # ChatGPT
-DOMAIN-SUFFIX,gpt4fr.ee,DIRECT
+DOMAIN-SUFFIX,gpt4fr.ee
 
 # 
