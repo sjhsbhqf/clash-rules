@@ -32,7 +32,8 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            ./publish/*
+            ./publish/rule-providers/*
+            ./publish/sub-config/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
