@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main ]
     paths:
-      - '*.txt'
-      - '*.ini'
+      - 'rule-providers/**'
+      - 'sub-config/**'
       - '.github/workflows/**'
 jobs:
   build:
