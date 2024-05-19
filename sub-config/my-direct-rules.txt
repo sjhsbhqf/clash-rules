@@ -2,4 +2,32 @@
 # ChatGPT
 DOMAIN-SUFFIX,gpt4fr.ee
 
-# 
+
+# Academic(School-Direct)
+PROCESS-NAME,DrClient.exe,DIRECT
+PROCESS-NAME,DrMain.exe,DIRECT
+PROCESS-NAME,DrUpdate.exe,DIRECT
+DOMAIN-SUFFIX,login.cqu.edu.cn,DIRECT
+DOMAIN-SUFFIX,cqu.edu.cn,DIRECT
+
+DOMAIN-SUFFIX,sciencedirect.com,DIRECT
+DOMAIN-SUFFIX,clarivate.cn,DIRECT
+DOMAIN-SUFFIX,clarivate.com,DIRECT
+DOMAIN-SUFFIX,sciencedirectassets.com,DIRECT
+DOMAIN-SUFFIX,ieee.org,DIRECT
+DOMAIN-SUFFIX,ieee.hum.works,DIRECT
+DOMAIN-SUFFIX,journalofcloudcomputing.springeropen.com,DIRECT
+DOMAIN-SUFFIX,ieeexplore.ieee.org,DIRECT
+
+# Local Process
+PROCESS-NAME,mailmaster.exe,DIRECT
+PROCESS-NAME,Code.exe,DIRECT
+PROCESS-NAME,ToDesk.exe,DIRECT
+PROCESS-NAME,BaiduNetdisk.exe,DIRECT
+PROCESS-NAME,BaiduNetdiskHost.exe,DIRECT
+PROCESS-NAME,pot.exe,DIRECT
+PROCESS-NAME,WeChat.exe,DIRECT
+PROCESS-NAME,filec.exe,DIRECT
+PROCESS-NAME,Maye Lite.exe,DIRECT
+PROCESS-NAME,svchost.exe,DIRECT
+
