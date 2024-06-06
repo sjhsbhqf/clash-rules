@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,ieee.hum.works,DIRECT
 DOMAIN-SUFFIX,journalofcloudcomputing.springeropen.com,DIRECT
 DOMAIN-SUFFIX,ieeexplore.ieee.org,DIRECT
 
+# Domestic media resource
+DOMAIN-SUFFIX,warhut.cn,DIRECT
+
 # Local Process
 PROCESS-NAME,mailmaster.exe,DIRECT
 PROCESS-NAME,Code.exe,DIRECT
