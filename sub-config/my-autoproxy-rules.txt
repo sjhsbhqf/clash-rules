@@ -5,3 +5,6 @@ PROCESS-NAME,AdsPower Global.exe,♻️  自动选择
 PROCESS-NAME,SunBrowser.exe,♻️  自动选择
 
 PROCESS-NAME,ChatALL.exe,♻️  自动选择
+
+# 谷歌浏览器服务
+DOMAIN-SUFFIX,mtalk.google.com,♻️  自动选择
