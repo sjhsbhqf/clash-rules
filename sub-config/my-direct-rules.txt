@@ -4,42 +4,42 @@ DOMAIN-SUFFIX,gpt4fr.ee
 
 
 # Academic(School-Direct)
-PROCESS-NAME,DrClient.exe,DIRECT
-PROCESS-NAME,DrMain.exe,DIRECT
-PROCESS-NAME,DrUpdate.exe,DIRECT
-DOMAIN-SUFFIX,login.cqu.edu.cn,DIRECT
-DOMAIN-SUFFIX,cqu.edu.cn,DIRECT
-IP-CIDR,10.10.8.162/32,DIRECT
+PROCESS-NAME,DrClient.exe
+PROCESS-NAME,DrMain.exe
+PROCESS-NAME,DrUpdate.exe
+DOMAIN-SUFFIX,login.cqu.edu.cn
+DOMAIN-SUFFIX,cqu.edu.cn
+IP-CIDR,10.10.8.162/32
 
-DOMAIN-SUFFIX,sciencedirect.com,DIRECT
-DOMAIN-SUFFIX,clarivate.cn,DIRECT
-DOMAIN-SUFFIX,clarivate.com,DIRECT
-DOMAIN-SUFFIX,sciencedirectassets.com,DIRECT
-DOMAIN-SUFFIX,ieee.org,DIRECT
-DOMAIN-SUFFIX,ieee.hum.works,DIRECT
-DOMAIN-SUFFIX,journalofcloudcomputing.springeropen.com,DIRECT
-DOMAIN-SUFFIX,ieeexplore.ieee.org,DIRECT
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,clarivate.cn
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,sciencedirectassets.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.hum.works
+DOMAIN-SUFFIX,journalofcloudcomputing.springeropen.com
+DOMAIN-SUFFIX,ieeexplore.ieee.org
 
 # Domestic media resource
-DOMAIN-SUFFIX,warhut.cn,DIRECT
+DOMAIN-SUFFIX,warhut.cn
 
 # Local Process
-PROCESS-NAME,mailmaster.exe,DIRECT
-PROCESS-NAME,Code.exe,DIRECT
-PROCESS-NAME,ToDesk.exe,DIRECT
-PROCESS-NAME,BaiduNetdisk.exe,DIRECT
-PROCESS-NAME,BaiduNetdiskHost.exe,DIRECT
-PROCESS-NAME,pot.exe,DIRECT
-PROCESS-NAME,WeChat.exe,DIRECT
-PROCESS-NAME,filec.exe,DIRECT
-PROCESS-NAME,Maye Lite.exe,DIRECT
-PROCESS-NAME,svchost.exe,DIRECT
+PROCESS-NAME,mailmaster.exe
+PROCESS-NAME,Code.exe
+PROCESS-NAME,ToDesk.exe
+PROCESS-NAME,BaiduNetdisk.exe
+PROCESS-NAME,BaiduNetdiskHost.exe
+PROCESS-NAME,pot.exe
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,filec.exe
+PROCESS-NAME,Maye Lite.exe
+PROCESS-NAME,svchost.exe
 
 # Mobaxterm
-PROCESS-NAME,MobaXterm.exe,DIRECT
-PROCESS-NAME,XWin_MobaX.exe,DIRECT
-PROCESS-NAME,MobaSCPRinew.exe,DIRECT
-PROCESS-NAME,MoTTYnew.exe,DIRECT
+PROCESS-NAME,MobaXterm.exe
+PROCESS-NAME,XWin_MobaX.exe
+PROCESS-NAME,MobaSCPRinew.exe
+PROCESS-NAME,MoTTYnew.exe
 
 # Forums
-DOMAIN-SUFFIX,linux.do,DIRECT
+DOMAIN-SUFFIX,linux.do

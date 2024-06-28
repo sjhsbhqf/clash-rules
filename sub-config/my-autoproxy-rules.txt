@@ -1,10 +1,10 @@
 
 # TUN模式 - 指纹浏览器
-DOMAIN-SUFFIX,adspower.net,♻️  自动选择
-PROCESS-NAME,AdsPower Global.exe,♻️  自动选择
-PROCESS-NAME,SunBrowser.exe,♻️  自动选择
+DOMAIN-SUFFIX,adspower.net
+PROCESS-NAME,AdsPower Global.exe
+PROCESS-NAME,SunBrowser.exe
 
-PROCESS-NAME,ChatALL.exe,♻️  自动选择
+PROCESS-NAME,ChatALL.exe
 
 # 谷歌浏览器服务
-DOMAIN-SUFFIX,mtalk.google.com,♻️  自动选择
+DOMAIN-SUFFIX,mtalk.google.com
