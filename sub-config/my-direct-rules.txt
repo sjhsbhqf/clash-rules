@@ -1,6 +1,9 @@
+# Clash内核classical类型的txt格式rule-providers文件内容
+
 
 # ChatGPT
 DOMAIN-SUFFIX,gpt4fr.ee
+DOMAIN-SUFFIX,oaifree.com
 
 
 # Academic(School-Direct)
