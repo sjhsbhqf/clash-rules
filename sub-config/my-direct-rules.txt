@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,warhut.cn
 PROCESS-NAME,mailmaster.exe
 PROCESS-NAME,Code.exe
 PROCESS-NAME,ToDesk.exe
+DOMAIN-SUFFIX,todesk.com
 PROCESS-NAME,BaiduNetdisk.exe
 PROCESS-NAME,BaiduNetdiskHost.exe
 PROCESS-NAME,pot.exe
