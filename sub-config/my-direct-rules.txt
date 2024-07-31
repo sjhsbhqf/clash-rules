@@ -12,7 +12,7 @@ PROCESS-NAME,DrMain.exe
 PROCESS-NAME,DrUpdate.exe
 DOMAIN-SUFFIX,login.cqu.edu.cn
 DOMAIN-SUFFIX,cqu.edu.cn
-IP-CIDR,10.10.8.162/32
+IP-CIDR,10.10.8.162/32,no-resolve
 
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,clarivate.cn
