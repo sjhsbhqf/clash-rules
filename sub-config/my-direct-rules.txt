@@ -1,4 +1,6 @@
 # Clash内核classical类型的txt格式rule-providers文件内容
+# 实时版：https://github.com/sjhsbhqf/clash-rules@release/my-direct-rules.txt
+# CDN版本：https://cdn.jsdelivr.net/gh/sjhsbhqf/clash-rules@main/sub-config/my-direct-rules.txt
 
 
 # ChatGPT
@@ -31,6 +33,7 @@ PROCESS-NAME,mailmaster.exe
 PROCESS-NAME,Code.exe
 PROCESS-NAME,ToDesk.exe
 DOMAIN-SUFFIX,todesk.com
+PROCESS-NAME,SunloginClient.exe
 PROCESS-NAME,BaiduNetdisk.exe
 PROCESS-NAME,BaiduNetdiskHost.exe
 PROCESS-NAME,pot.exe
