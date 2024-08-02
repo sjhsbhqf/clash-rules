@@ -34,6 +34,9 @@ PROCESS-NAME,Code.exe
 PROCESS-NAME,ToDesk.exe
 DOMAIN-SUFFIX,todesk.com
 PROCESS-NAME,SunloginClient.exe
+DOMAIN-SUFFIX,oray.com,DIRECT
+DOMAIN-SUFFIX,oray.net,DIRECT
+DOMAIN-KEYWORD,oray,DIRECT
 PROCESS-NAME,BaiduNetdisk.exe
 PROCESS-NAME,BaiduNetdiskHost.exe
 PROCESS-NAME,pot.exe
