@@ -19,6 +19,7 @@ IP-CIDR,10.10.8.162/32,no-resolve
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,clarivate.cn
 DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,sciencedirectassets.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ieee.hum.works

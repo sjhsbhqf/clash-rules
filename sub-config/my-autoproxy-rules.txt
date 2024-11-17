@@ -1,8 +1,7 @@
-
 # TUN模式 - 指纹浏览器
-DOMAIN-SUFFIX,adspower.net
-PROCESS-NAME,AdsPower Global.exe
-PROCESS-NAME,SunBrowser.exe
+# DOMAIN-SUFFIX,adspower.net
+# PROCESS-NAME,AdsPower Global.exe
+# PROCESS-NAME,SunBrowser.exe
 
 PROCESS-NAME,ChatALL.exe
 
