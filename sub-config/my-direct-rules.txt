@@ -1,0 +1,56 @@
+# Clash内核classical类型的txt格式rule-providers文件内容
+# 实时版：https://github.com/sjhsbhqf/clash-rules@release/my-direct-rules.txt
+# CDN版本：https://cdn.jsdelivr.net/gh/sjhsbhqf/clash-rules@main/sub-config/my-direct-rules.txt
+
+
+# ChatGPT
+DOMAIN-SUFFIX,gpt4fr.ee
+DOMAIN-SUFFIX,oaifree.com
+
+
+# Academic(School-Direct)
+PROCESS-NAME,DrClient.exe
+PROCESS-NAME,DrMain.exe
+PROCESS-NAME,DrUpdate.exe
+DOMAIN-SUFFIX,login.cqu.edu.cn
+DOMAIN-SUFFIX,cqu.edu.cn
+IP-CIDR,10.10.8.162/32,no-resolve
+
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,clarivate.cn
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,sciencedirectassets.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.hum.works
+DOMAIN-SUFFIX,journalofcloudcomputing.springeropen.com
+DOMAIN-SUFFIX,ieeexplore.ieee.org
+
+# Domestic media resource
+DOMAIN-SUFFIX,warhut.cn
+
+# Local Process
+PROCESS-NAME,mailmaster.exe
+PROCESS-NAME,Code.exe
+PROCESS-NAME,ToDesk.exe
+DOMAIN-SUFFIX,todesk.com
+PROCESS-NAME,SunloginClient.exe
+DOMAIN-SUFFIX,oray.com,DIRECT
+DOMAIN-SUFFIX,oray.net,DIRECT
+DOMAIN-KEYWORD,oray,DIRECT
+PROCESS-NAME,BaiduNetdisk.exe
+PROCESS-NAME,BaiduNetdiskHost.exe
+PROCESS-NAME,pot.exe
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,filec.exe
+PROCESS-NAME,Maye Lite.exe
+PROCESS-NAME,svchost.exe
+
+# Mobaxterm
+PROCESS-NAME,MobaXterm.exe
+PROCESS-NAME,XWin_MobaX.exe
+PROCESS-NAME,MobaSCPRinew.exe
+PROCESS-NAME,MoTTYnew.exe
+
+# Forums
+DOMAIN-SUFFIX,linux.do
